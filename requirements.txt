@@ -5,8 +5,7 @@ sentence-transformers
 torch
 torchvision
 opencv-python-headless
-pandas
+pillow
 numpy==2.2.6
-Pillow
 scikit-learn
-scipy
+pandas
