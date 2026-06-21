@@ -1,1 +1,23 @@
-
+AI_Learning_Companion/
+│
+├── app.py
+│
+├── requirements.txt
+│
+├── notebooks/
+│   ├── 01_Dataset_Analysis.ipynb
+│   ├── 02_OCR_Extraction.ipynb
+│   ├── 03_Text_Preprocessing.ipynb
+│   ├── 04_Answer_Evaluation_SBERT.ipynb
+│   ├── 05_Gemini_Feedback.ipynb
+│   └── 06_Complete_Pipeline.ipynb
+│
+├── datasets/
+│   ├── handwritten_answers/
+│   │   ├── student_1_q1.jpg
+│   │   └── ...
+│   │
+│   └── answer_key/
+│       └── answer_key.csv
+│
+└── reports/
