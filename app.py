@@ -1,8 +1,5 @@
 import streamlit as st
-import easyocr
 import google.generativeai as genai
-
-from sentence_transformers import SentenceTransformer, util
 
 # -----------------------------
 # PAGE CONFIG
