@@ -1,0 +1,12 @@
+streamlit
+easyocr
+google-generativeai
+sentence-transformers
+torch
+torchvision
+opencv-python-headless
+pandas
+numpy==2.2.6
+Pillow
+scikit-learn
+scipy
